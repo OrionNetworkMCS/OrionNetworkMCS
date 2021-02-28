@@ -7,7 +7,7 @@
 - 💬 Ask me about Nothing. Lmfao
 - 📫 How to reach me: [Contact My Discord!](http://www.google.com){: .btn}
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [watch this Music](https://www.youtube.com/channel/UCWQ_E90L2xcox7JYXlkMNoQ) [watch this Coding](https://www.youtube.com/channel/UCVolm2DWQMhsMC5SObpFqXA) [watch this Gaming](https://www.youtube.com/channel/UCGlT1VtrbwDM4q3IRgRE6BQ)
+- ⚡ Fun fact: [<button>My Music</button>](https://www.youtube.com/channel/UCWQ_E90L2xcox7JYXlkMNoQ) [watch this Coding](https://www.youtube.com/channel/UCVolm2DWQMhsMC5SObpFqXA) [watch this Gaming](https://www.youtube.com/channel/UCGlT1VtrbwDM4q3IRgRE6BQ)
 
 
 A Little Networking
